@@ -1,7 +1,7 @@
 
 [![AIS328DQTR](AIS328DQTR_I2C.png)](https://store.ncd.io/product/ais328dqtr-high-performance-ultra-low-power-3-axis-accelerometer-with-digital-output-for-automotive-applications-i2c-mini-module/)
 
-#AIS328DQTR
+# AIS328DQTR
 
 The AIS328DQ, manufactured by STMicroelectronics, is an ultra-low power high performance 3-axis linear accelerometer with an I2C interface.The AIS328DQ has dynamic user-selectable full-scales of ±2g/±4g/±8g and is capable of measuring accelerations with output data rates from 0.5 Hz to 1 kHz.
 This Device is available from www.ncd.io 
